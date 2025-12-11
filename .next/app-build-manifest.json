@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/[root-of-the-server]__0dcd4240._.css",
+      "static/chunks/1bad7_next_dist_5d878a40._.js",
+      "static/chunks/3d-galery_app_layout_tsx_52fcaf47._.js",
+      "static/chunks/1bad7_next_dist_client_components_builtin_global-error_10ad3d0c.js",
+      "static/chunks/1bad7_react-reconciler_7c132c47._.js",
+      "static/chunks/1bad7_three_build_three_core_9c027763.js",
+      "static/chunks/1bad7_three_build_three_module_6143362e.js",
+      "static/chunks/1bad7_three_build_three_module_dca6a0ae.js",
+      "static/chunks/1bad7_@react-three_fiber_dist_e69e47a3._.js",
+      "static/chunks/1bad7_41302db5._.js",
+      "static/chunks/3d-galery_components_InfiniteGallery_tsx_dfe1dda6._.js",
+      "static/chunks/3d-galery_app_page_tsx_10ad3d0c._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bbdce4aa._.js",
+      "static/chunks/1bad7_next_dist_compiled_react-dom_84ee45d9._.js",
+      "static/chunks/1bad7_next_dist_compiled_next-devtools_index_bb34348c.js",
+      "static/chunks/1bad7_next_dist_compiled_ccb9041e._.js",
+      "static/chunks/1bad7_next_dist_client_a5b1fe47._.js",
+      "static/chunks/1bad7_next_dist_b47389f1._.js",
+      "static/chunks/1bad7_@swc_helpers_cjs_1cd70d64._.js",
+      "static/chunks/3d-galery_a0ff3932._.js",
+      "static/chunks/turbopack-3d-galery_f073a221._.js"
+    ]
+  }
+}

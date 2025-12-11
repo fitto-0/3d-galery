@@ -24,7 +24,7 @@ export default function Home() {
 			/>
 			<div className="h-screen inset-0 pointer-events-none fixed flex items-center justify-center text-center px-3 mix-blend-exclusion text-white">
 				<h1 className="font-serif text-4xl md:text-7xl tracking-tight">
-					<span className="italic">I create;</span> therefore I am
+					<span className="italic">I am seeking, I am striving;</span> I am in it with all my heart.
 				</h1>
 			</div>
 

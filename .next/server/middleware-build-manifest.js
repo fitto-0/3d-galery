@@ -1,0 +1,55 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/1bad7_next_dist_compiled_next-devtools_index_4e8eda9c.js",
+      "static/chunks/1bad7_next_dist_compiled_100b8073._.js",
+      "static/chunks/1bad7_next_dist_shared_lib_5aeacbc6._.js",
+      "static/chunks/1bad7_next_dist_client_d93ed4cf._.js",
+      "static/chunks/1bad7_next_dist_8646a038._.js",
+      "static/chunks/1bad7_next_app_22bcc9ba.js",
+      "static/chunks/[next]_entry_page-loader_ts_478fc149._.js",
+      "static/chunks/1bad7_react-dom_294bf0db._.js",
+      "static/chunks/1bad7_1c42bb8e._.js",
+      "static/chunks/[root-of-the-server]__c95da037._.js",
+      "static/chunks/3d-galery_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-3d-galery_pages__app_9528e0db._.js"
+    ],
+    "/_error": [
+      "static/chunks/1bad7_next_dist_compiled_next-devtools_index_4e8eda9c.js",
+      "static/chunks/1bad7_next_dist_compiled_100b8073._.js",
+      "static/chunks/1bad7_next_dist_shared_lib_07387cee._.js",
+      "static/chunks/1bad7_next_dist_client_d93ed4cf._.js",
+      "static/chunks/1bad7_next_dist_e0bd05e1._.js",
+      "static/chunks/1bad7_next_error_537a64f0.js",
+      "static/chunks/[next]_entry_page-loader_ts_23c963a8._.js",
+      "static/chunks/1bad7_react-dom_294bf0db._.js",
+      "static/chunks/1bad7_1c42bb8e._.js",
+      "static/chunks/[root-of-the-server]__60443d8d._.js",
+      "static/chunks/3d-galery_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-3d-galery_pages__error_a993fb15._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/1bad7_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bbdce4aa._.js",
+    "static/chunks/1bad7_next_dist_compiled_react-dom_84ee45d9._.js",
+    "static/chunks/1bad7_next_dist_compiled_next-devtools_index_bb34348c.js",
+    "static/chunks/1bad7_next_dist_compiled_ccb9041e._.js",
+    "static/chunks/1bad7_next_dist_client_a5b1fe47._.js",
+    "static/chunks/1bad7_next_dist_b47389f1._.js",
+    "static/chunks/1bad7_@swc_helpers_cjs_1cd70d64._.js",
+    "static/chunks/3d-galery_a0ff3932._.js",
+    "static/chunks/turbopack-3d-galery_f073a221._.js"
+  ],
+  "ampFirstPages": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
+
+];
